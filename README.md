@@ -34,4 +34,4 @@ The design replicates W3Schools’ educational interface with:
 
 ## 📸 Screenshot 
 
-![Screenshot](Screenshot/screenshot-desktop.png)
+![Screenshot](Screenshot/screenshot.png)
